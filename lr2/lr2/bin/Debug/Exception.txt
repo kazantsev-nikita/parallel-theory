@@ -1,0 +1,10 @@
+В данный момент объект используется другим процессом.   в System.Drawing.Image.get_Width()
+   в System.Drawing.Bitmap.GetPixel(Int32 x, Int32 y)
+   в lr2.ImageBlender.BitmapExtensions.setNewColour(Bitmap layer) в c:\Users\Никита\Documents\Visual Studio 2013\Projects\lr2\lr2\BitmapExtensions.cs:строка 32
+   в lr2.Program.ChangeColour(Bitmap layer, Int32 xMin, Int32 yMin, Int32 xMax, Int32 yMax) в c:\Users\Никита\Documents\Visual Studio 2013\Projects\lr2\lr2\Program.cs:строка 78
+В данный момент объект используется другим процессом.   в System.Drawing.Image.get_Height()
+   в lr2.ImageBlender.BitmapExtensions.setNewColour(Bitmap layer) в c:\Users\Никита\Documents\Visual Studio 2013\Projects\lr2\lr2\BitmapExtensions.cs:строка 28
+   в lr2.Program.ChangeColour(Bitmap layer, Int32 xMin, Int32 yMin, Int32 xMax, Int32 yMax) в c:\Users\Никита\Documents\Visual Studio 2013\Projects\lr2\lr2\Program.cs:строка 78
+В данный момент объект используется другим процессом.   в System.Drawing.Image.get_Width()
+   в lr2.ImageBlender.BitmapExtensions.setNewColour(Bitmap layer) в c:\Users\Никита\Documents\Visual Studio 2013\Projects\lr2\lr2\BitmapExtensions.cs:строка 30
+   в lr2.Program.ChangeColour(Bitmap layer, Int32 xMin, Int32 yMin, Int32 xMax, Int32 yMax) в c:\Users\Никита\Documents\Visual Studio 2013\Projects\lr2\lr2\Program.cs:строка 78

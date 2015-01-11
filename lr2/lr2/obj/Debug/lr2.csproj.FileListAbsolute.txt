@@ -1,0 +1,6 @@
+c:\users\никита\documents\visual studio 2013\Projects\lr2\lr2\bin\Debug\lr2.exe.config
+c:\users\никита\documents\visual studio 2013\Projects\lr2\lr2\bin\Debug\lr2.exe
+c:\users\никита\documents\visual studio 2013\Projects\lr2\lr2\bin\Debug\lr2.pdb
+c:\users\никита\documents\visual studio 2013\Projects\lr2\lr2\obj\Debug\lr2.csprojResolveAssemblyReference.cache
+c:\users\никита\documents\visual studio 2013\Projects\lr2\lr2\obj\Debug\lr2.exe
+c:\users\никита\documents\visual studio 2013\Projects\lr2\lr2\obj\Debug\lr2.pdb
